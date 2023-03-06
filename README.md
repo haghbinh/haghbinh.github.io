@@ -1,5 +1,4 @@
-# Power Load Consumption
+# Power Load Consumption Report:
 
-### [Load Shape heatmap](https://haghbinh.github.io/heat.html)
-### [Load Shape Surface plot](https://haghbinh.github.io/3Dsurface.html)
-### [Load Shape Lines](https://haghbinh.github.io/3Dlines.html)
+### [1. Load Shape consumtion](https://haghbinh.github.io/power_report_1.nb.html)
+
