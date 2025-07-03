@@ -1,0 +1,77 @@
+/* styles.css */
+.table-responsive {
+  overflow-x: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  direction: rtl;
+  text-align: right;
+}
+th, td {
+  padding: 0.8rem;
+  border: 1px solid #ccc;
+}
+th {
+  background-color: #e0f7fa;
+}
+td a {
+  color: #007bff;
+  text-decoration: none;
+}
+td a:hover {
+  text-decoration: underline;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('fonts/Vazir.woff2') format('woff2'),
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IranNastaliq';
+  src: url('fonts/IranNastaliq.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Vazir', sans-serif;
+  line-height: 2;
+}
+
+h1 {
+  font-family: 'IranNastaliq', serif;
+  font-size: 3.5em;
+  color: #2d3436;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'IranNastaliq', serif;
+  font-size: 3em;
+  color: #2d3436;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'IranNastaliq', serif;
+  font-size: 2em;
+  color: #2d3436;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'IranNastaliq', serif;
+  font-size: 1.2em;
+  color: #2d3436;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
