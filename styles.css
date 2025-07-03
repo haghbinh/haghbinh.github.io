@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Vazir';
+  src: url('fonts/Vazir.woff2') format('woff2'),
+       url('fonts/Vazir.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IranNastaliq';
+  src: url('fonts/IranNastaliq.woff2') format('woff2'),
+       url('fonts/IranNastaliq.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: Vazir, Tahoma, sans-serif;
+}
+
+h1, .title {
+  font-family: 'IranNastaliq', Tahoma, serif;
+}
+
+a {
+  color: #006666;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul li::before {
+  content: "▪ ";
+  color: #006666;
+}
+
+h3 {
+  margin-top: 1.5rem;
+  color: #333;
+}
