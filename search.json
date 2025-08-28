@@ -2,16 +2,16 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "🎓 تدریس",
+    "title": "دکتر حسین حق‌بین",
     "section": "",
-    "text": "🎓 تدریس\n\n\n🐍 برنامه نویسی پایتون (Python Programming)\n\n\nدوره جامع Python از مقدماتی تا پیشرفته\n\n\n\nآشنایی با مفاهیم پایه، ساختارهای داده، توابع، OOP\n\n\nکار با NumPy، Pandas، Tkinter، SQLite و پروژه‌های واقعی\n\n\nساختار یافته در سه سطح: مقدماتی، متوسط، پیشرفته\n\n\n🌐 وب‌سایت 📁 گیت‌هاب\n\n\n\n\n🧠 سایر دوره‌های در حال توسعه\n\n\n\nیادگیری عمیق با PyTorch و پروژه‌های واقعی\n\n\nدر آینده این دوره‌ها نیز با لینک در همین صفحه ارائه خواهد شد."
+    "text": "🎓 تدریس\n\n\n🐍 برنامه نویسی پایتون\n\n\nدوره جامع Python از مقدماتی تا پیشرفته\n\n\nآشنایی با مفاهیم پایه، ساختارهای داده، توابع، OOP\n\n\nکار با NumPy، Pandas، Tkinter، SQLite و پروژه‌های واقعی\n\n\nساختار یافته در سه سطح: مقدماتی، متوسط، پیشرفته\n\n🌐 وب‌سایت درس 📁 گیت‌هاب درس\n\n\n\n\n🧠 سایر دوره‌های در حال توسعه\n\n\nیادگیری عمیق با PyTorch و پروژه‌های واقعی\n\nدر آینده این دوره‌ها نیز با لینک در همین صفحه ارائه خواهد شد."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "دکتر حسین حق‌بین",
     "section": "",
-    "text": "هیئت علمی گروه آمار، دانشکده مهندسی سیستمهای هوشمند و علوم داده، دانشگاه خلیج فارس\n\n\n\n\n📧 ایمیل: haghbin@pgu.ac.ir\n\n\n🌐 وب‌سایت: haghbin.ir\n\n\n گیت‌هاب: haghbinh\n\n\n🔗 لینکدین: haghbinh\n\n\n\n\n\n📘 دوره‌ها و آموزش‌ها:\n\n\nدوره آموزش برنامه نویسی R برای علوم داده\n\n\nدوره اموزش برنامه‌نویسی پایتون برای علوم داده\n\n\nیادگیری ماشین و یادگیری عمیق با Pytorch\n\n\n🧪 زمینه‌های پژوهشی:\n\n\nتحلیل داده‌های تابعی\n\n\nیادگیری عمیق برای داده‌های صنعتی\n\n\nتشخیص خطا و پیش‌بینی عمر مفید باقیمانده در ماشین‌های دوار"
+    "text": "من استادیار آمار در دانشگاه خلیج فارس، بوشهر هستم.\nتمرکز پژوهشی من بر تحلیل داده‌های تابعی، یادگیری عمیق و کاربردهای هوش تجاری در صنعت است.\n\n\n\n\nتحلیل داده‌های تابعی\n\n\nیادگیری ماشین\n\n\nیادگیری عمیق (ResNet1D، ترنسفورمرها، KAN)\n\n\nتشخیص خطا در ماشین‌های دوار\n\n\nپیش‌بینی عمر مفید باقی‌مانده (RUL) در ماشین‌های دوار"
   },
   {
     "objectID": "research.html",
@@ -33,5 +33,264 @@
     "title": "Hossein Haghbin",
     "section": "🎯 Research Interests",
     "text": "🎯 Research Interests\n\n\n\nFunctional Data Analysis\n\n\nDeep Learning for Industrial Data\n\n\nFault Diagnosis and Remaining Useful Life (RUL) Prediction in Rotary Machines\n\n\n\nProfile: Hossein Haghbin on Google Scholar\n\n\n📚 Selected Publications (APA Style)\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025). Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., & Maadooliat, M. (2023). A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\nKharrati-Kopaei, M., Shenavari, Z., & Haghbin, H. (2023). combinIT: An R package for combining interaction tests for unreplicated two-way tables. The R Journal, 15(1), 284–296.\nTrinka, J., Haghbin, H., & Maadooliat, M. (2022). Multivariate functional singular spectrum analysis: A nonparametric approach for analyzing multivariate functional time series. In Innovations in Multivariate Statistical Modeling: Navigating Theoretical and Practical Advances. Springer. https://link.springer.com/\n\n\n\n📘 Full Publication List\n🔗 Browse my full publication list on Google Scholar\n\nThis page is generated using my Google Scholar profile (Public until 2025). Metrics and citation counts are accurate as of the date of this page."
+  },
+  {
+    "objectID": "index_en.html",
+    "href": "index_en.html",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "I am an Assistant Professor of Computer Science at\nPersian Gulf University, Bushehr, Iran.\nMy research focuses on Functional Data Analysis, Deep Learning, and Business Intelligence applications in industry.\n\n\n\nFunctional Data Analysis\nMachine Learning\n\nDeep Learning (ResNet1D, Transformers, KANs)\n\nFault Diagnosis in Rotary Devices\n\nRemaining Usful Life in Rotary Devices\n\n\n\n\n\n\nH. Haghbin, Y. Zhao, and M. Maadooliat(2025), Regularized multivariate functional principal component analysis for data observed on different domains, Foundations of Data Science, In press.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025). Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023). A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\ngoogle Scholar List →\nPGU Full List →\n\n\n\n\n\nFall 2025: Deep Learning (Graduate)\n\nSpring 2025: Python Programming (Undergraduate)\n\nTeaching Materials →\n\n\n\n\n\nMSc: Sayedeh Zoreh Mousavi (Ongoing), Fault Detection in Rotary Devices using Deep Learning.\n\nMSc: Mojib porohan (2025) A Hybrid Model Based on Clustering and Recurrent Neural Networks for Time Series Forecasting.\n\n\n\n\n\n\nFeasibility Study of Business Intelligence in Iranian Offshore Oil Company – Bushehr Zone (Industry Sabbatical).\n\n\n\n\n\nAug 2025: Taught in the Short Course on R Tools (SCoRT) workshop, focusing on applications of R in statistical computing and data analysis."
+  },
+  {
+    "objectID": "index_en.html#research-interests",
+    "href": "index_en.html#research-interests",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Functional Data Analysis\nMachine Learning\n\nDeep Learning (ResNet1D, Transformers, KANs)\n\nFault Diagnosis in Rotary Devices\n\nRemaining Usful Life in Rotary Devices"
+  },
+  {
+    "objectID": "index_en.html#publications-selected",
+    "href": "index_en.html#publications-selected",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "H. Haghbin, Y. Zhao, and M. Maadooliat(2025), Regularized multivariate functional principal component analysis for data observed on different domains, Foundations of Data Science, In press.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025). Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023). A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\ngoogle Scholar List →\nPGU Full List →"
+  },
+  {
+    "objectID": "index_en.html#teaching",
+    "href": "index_en.html#teaching",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Fall 2025: Deep Learning (Graduate)\n\nSpring 2025: Python Programming (Undergraduate)\n\nTeaching Materials →"
+  },
+  {
+    "objectID": "index_en.html#supervision",
+    "href": "index_en.html#supervision",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "MSc: Sayedeh Zoreh Mousavi (Ongoing), Fault Detection in Rotary Devices using Deep Learning.\n\nMSc: Mojib porohan (2025) A Hybrid Model Based on Clustering and Recurrent Neural Networks for Time Series Forecasting."
+  },
+  {
+    "objectID": "index_en.html#projects",
+    "href": "index_en.html#projects",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Feasibility Study of Business Intelligence in Iranian Offshore Oil Company – Bushehr Zone (Industry Sabbatical)."
+  },
+  {
+    "objectID": "index_en.html#news",
+    "href": "index_en.html#news",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Aug 2025: Taught in the Short Course on R Tools (SCoRT) workshop, focusing on applications of R in statistical computing and data analysis."
+  },
+  {
+    "objectID": "index_fa.html",
+    "href": "index_fa.html",
+    "title": "حسین حق‌بین",
+    "section": "",
+    "text": "من استادیار علوم کامپیوتر در\nدانشگاه خلیج فارس، بوشهر هستم.\nتمرکز پژوهشی من بر تحلیل داده‌های تابعی، یادگیری عمیق و کاربردهای هوش تجاری در صنعت است.\n\n\n\n\nتحلیل داده‌های تابعی\n\nیادگیری ماشین\n\nیادگیری عمیق (ResNet1D، ترنسفورمرها، KAN)\n\nتشخیص خطا در دستگاه‌های دوار\n\nپیش‌بینی عمر مفید باقی‌مانده (RUL) در دستگاه‌های دوار\n\n\n\n\n\n\nH. Haghbin, Y. Zhao, and M. Maadooliat (2025)، Regularized multivariate functional principal component analysis for data observed on different domains، Foundations of Data Science، در دست انتشار.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025)، Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023)، A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\nفهرست کامل در گوگل اسکالر →\nفهرست کامل در PGU →\n\n\n\n\n\nپاییز ۱۴۰۴: درس یادگیری عمیق (تحصیلات تکمیلی)\n\nبهار ۱۴۰۴: درس برنامه‌نویسی پایتون (کارشناسی)\n\nجزوات و منابع درسی →\n\n\n\n\n\nکارشناسی ارشد: سیده زهره موسوی (جاری)، تشخیص خطا در دستگاه‌های دوار با استفاده از یادگیری عمیق.\n\nکارشناسی ارشد: مجیب پروهان (۱۴۰۴)، یک مدل ترکیبی مبتنی بر خوشه‌بندی و شبکه‌های عصبی بازگشتی برای پیش‌بینی سری‌های زمانی.\n\n\n\n\n\n\nمطالعه امکان‌سنجی پیاده‌سازی هوش تجاری در شرکت نفت فلات قاره – منطقه بوشهر (فرصت مطالعاتی صنعتی).\n\n\n\n\n\n\nمرداد ۱۴۰۴: تدریس در کارگاه SCoRT با محوریت کاربردهای R در محاسبات آماری و تحلیل داده."
+  },
+  {
+    "objectID": "index_fa.html#زمینههای-پژوهشی",
+    "href": "index_fa.html#زمینههای-پژوهشی",
+    "title": "حسین حق‌بین",
+    "section": "",
+    "text": "تحلیل داده‌های تابعی\n\nیادگیری ماشین\n\nیادگیری عمیق (ResNet1D، ترنسفورمرها، KAN)\n\nتشخیص خطا در دستگاه‌های دوار\n\nپیش‌بینی عمر مفید باقی‌مانده (RUL) در دستگاه‌های دوار"
+  },
+  {
+    "objectID": "index_fa.html#مقالات-منتخب",
+    "href": "index_fa.html#مقالات-منتخب",
+    "title": "حسین حق‌بین",
+    "section": "",
+    "text": "H. Haghbin, Y. Zhao, and M. Maadooliat (2025)، Regularized multivariate functional principal component analysis for data observed on different domains، Foundations of Data Science، در دست انتشار.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025)، Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023)، A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\nفهرست کامل در گوگل اسکالر →\nفهرست کامل در PGU →"
+  },
+  {
+    "objectID": "index_fa.html#تدریس",
+    "href": "index_fa.html#تدریس",
+    "title": "حسین حق‌بین",
+    "section": "",
+    "text": "پاییز ۱۴۰۴: درس یادگیری عمیق (تحصیلات تکمیلی)\n\nبهار ۱۴۰۴: درس برنامه‌نویسی پایتون (کارشناسی)\n\nجزوات و منابع درسی →"
+  },
+  {
+    "objectID": "index_fa.html#دانشجویان-تحت-راهنمایی",
+    "href": "index_fa.html#دانشجویان-تحت-راهنمایی",
+    "title": "حسین حق‌بین",
+    "section": "",
+    "text": "کارشناسی ارشد: سیده زهره موسوی (جاری)، تشخیص خطا در دستگاه‌های دوار با استفاده از یادگیری عمیق.\n\nکارشناسی ارشد: مجیب پروهان (۱۴۰۴)، یک مدل ترکیبی مبتنی بر خوشه‌بندی و شبکه‌های عصبی بازگشتی برای پیش‌بینی سری‌های زمانی."
+  },
+  {
+    "objectID": "index_fa.html#پروژهها",
+    "href": "index_fa.html#پروژهها",
+    "title": "حسین حق‌بین",
+    "section": "",
+    "text": "مطالعه امکان‌سنجی پیاده‌سازی هوش تجاری در شرکت نفت فلات قاره – منطقه بوشهر (فرصت مطالعاتی صنعتی)."
+  },
+  {
+    "objectID": "index_fa.html#اخبار",
+    "href": "index_fa.html#اخبار",
+    "title": "حسین حق‌بین",
+    "section": "",
+    "text": "مرداد ۱۴۰۴: تدریس در کارگاه SCoRT با محوریت کاربردهای R در محاسبات آماری و تحلیل داده."
+  },
+  {
+    "objectID": "index.html#زمینههای-پژوهشی",
+    "href": "index.html#زمینههای-پژوهشی",
+    "title": "دکتر حسین حق‌بین",
+    "section": "",
+    "text": "تحلیل داده‌های تابعی\n\n\nیادگیری ماشین\n\n\nیادگیری عمیق (ResNet1D، ترنسفورمرها، KAN)\n\n\nتشخیص خطا در ماشین‌های دوار\n\n\nپیش‌بینی عمر مفید باقی‌مانده (RUL) در ماشین‌های دوار"
+  },
+  {
+    "objectID": "index.html#مقالات-منتخب",
+    "href": "index.html#مقالات-منتخب",
+    "title": "دکتر حسین حق‌بین",
+    "section": "",
+    "text": "H. Haghbin, Y. Zhao, and M. Maadooliat (2025)، Regularized multivariate functional principal component analysis for data observed on different domains، Foundations of Data Science، در دست انتشار.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025)، Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023)، A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\nفهرست کامل در گوگل اسکالر →\nفهرست کامل در PGU →\n\n\nدوره آموزش برنامه نویسی R برای علوم داده\n\n\nدوره اموزش برنامه‌نویسی پایتون برای علوم داده\n\n\nیادگیری ماشین و یادگیری عمیق با Pytorch\n\n\n\nتحلیل داده‌های تابعی\n\n\nیادگیری عمیق برای داده‌های صنعتی\n\n\nتشخیص خطا و پیش‌بینی عمر مفید باقیمانده در ماشین‌های دوار\n\n::::: ::::::"
+  },
+  {
+    "objectID": "index.html#تدریس",
+    "href": "index.html#تدریس",
+    "title": "دکتر حسین حق‌بین",
+    "section": "📖 تدریس",
+    "text": "📖 تدریس\n\nپاییز ۱۴۰۴: درس یادگیری عمیق (تحصیلات تکمیلی)\n\n\nبهار ۱۴۰۴: درس برنامه‌نویسی پایتون (کارشناسی)\n\nجزوات و منابع درسی →"
+  },
+  {
+    "objectID": "index.html#دانشجویان-تحت-راهنمایی",
+    "href": "index.html#دانشجویان-تحت-راهنمایی",
+    "title": "دکتر حسین حق‌بین",
+    "section": "👩‍🎓 دانشجویان تحت راهنمایی",
+    "text": "👩‍🎓 دانشجویان تحت راهنمایی\n\nکارشناسی ارشد: سیده زهره موسوی (جاری)، تشخیص خطا در دستگاه‌های دوار با استفاده از یادگیری عمیق.\n\n\nکارشناسی ارشد: مجیب پروهان (۱۴۰۴)، یک مدل ترکیبی مبتنی بر خوشه‌بندی و شبکه‌های عصبی بازگشتی برای پیش‌بینی سری‌های زمانی."
+  },
+  {
+    "objectID": "index.html#پروژهها",
+    "href": "index.html#پروژهها",
+    "title": "دکتر حسین حق‌بین",
+    "section": "🌍 پروژه‌ها",
+    "text": "🌍 پروژه‌ها\n\nمطالعه امکان‌سنجی پیاده‌سازی هوش تجاری در شرکت نفت فلات قاره – منطقه بوشهر (فرصت مطالعاتی صنعتی)."
+  },
+  {
+    "objectID": "index.html#اخبار",
+    "href": "index.html#اخبار",
+    "title": "دکتر حسین حق‌بین",
+    "section": "🔔 اخبار",
+    "text": "🔔 اخبار\n\nمرداد ۱۴۰۴: تدریس در کارگاه SCoRT با محوریت کاربردهای R در محاسبات آماری و تحلیل داده."
+  },
+  {
+    "objectID": "teaching_en.html",
+    "href": "teaching_en.html",
+    "title": "Dr. Hossein Haghbin",
+    "section": "",
+    "text": "🎓 Teaching\n\n\n🐍 Python Programming\n\nComprehensive Python Course from Beginner to Advanced\n\n\nIntroduction to basic concepts, data structures, functions, and OOP\n\n\nWorking with NumPy, Pandas, Tkinter, SQLite, and real-world projects\n\n\nStructured across three levels: Beginner, Intermediate, Advanced\n\n🌐 Course Website\n📁 Course GitHub\n:::\n\n\n\n🧠 Other Courses Under Development\n\nDeep Learning with PyTorch and real-world projects\n\nThese courses will also be offered with links on this page in the future."
+  },
+  {
+    "objectID": "en/teaching_en.html",
+    "href": "en/teaching_en.html",
+    "title": "Dr. Hossein Haghbin",
+    "section": "",
+    "text": "🎓 Teaching\n\n\n🐍 Python Programming\n\nComprehensive Python Course from Beginner to Advanced\n\n\nIntroduction to basic concepts, data structures, functions, and OOP\n\n\nWorking with NumPy, Pandas, Tkinter, SQLite, and real-world projects\n\n\nStructured across three levels: Beginner, Intermediate, Advanced\n\n🌐 Course Website\n📁 Course GitHub\n\n\n\n🧠 Other Courses Under Development\n\nDeep Learning with PyTorch and real-world projects\n\nThese courses will also be offered with links on this page in the future."
+  },
+  {
+    "objectID": "en/index_en.html",
+    "href": "en/index_en.html",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "I am an Assistant Professor of Computer Science at\nPersian Gulf University, Bushehr, Iran.\nMy research focuses on Functional Data Analysis, Deep Learning, and Business Intelligence applications in industry.\n\n\n\nFunctional Data Analysis\nMachine Learning\n\nDeep Learning (ResNet1D, Transformers, KANs)\n\nFault Diagnosis in Rotary Devices\n\nRemaining Usful Life in Rotary Devices\n\n\n\n\n\n\nH. Haghbin, Y. Zhao, and M. Maadooliat(2025), Regularized multivariate functional principal component analysis for data observed on different domains, Foundations of Data Science, In press.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025). Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023). A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\ngoogle Scholar List →\nPGU Full List →\n\n\n\n\n\nFall 2025: Deep Learning (Graduate)\n\nSpring 2025: Python Programming (Undergraduate)\n\nTeaching Materials →\n\n\n\n\n\nMSc: Sayedeh Zoreh Mousavi (Ongoing), Fault Detection in Rotary Devices using Deep Learning.\n\nMSc: Mojib porohan (2025) A Hybrid Model Based on Clustering and Recurrent Neural Networks for Time Series Forecasting.\n\n\n\n\n\n\nFeasibility Study of Business Intelligence in Iranian Offshore Oil Company – Bushehr Zone (Industry Sabbatical).\n\n\n\n\n\nAug 2025: Taught in the Short Course on R Tools (SCoRT) workshop, focusing on applications of R in statistical computing and data analysis."
+  },
+  {
+    "objectID": "en/index_en.html#research-interests",
+    "href": "en/index_en.html#research-interests",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Functional Data Analysis\nMachine Learning\n\nDeep Learning (ResNet1D, Transformers, KANs)\n\nFault Diagnosis in Rotary Devices\n\nRemaining Usful Life in Rotary Devices"
+  },
+  {
+    "objectID": "en/index_en.html#publications-selected",
+    "href": "en/index_en.html#publications-selected",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "H. Haghbin, Y. Zhao, and M. Maadooliat(2025), Regularized multivariate functional principal component analysis for data observed on different domains, Foundations of Data Science, In press.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025). Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023). A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\ngoogle Scholar List →\nPGU Full List →"
+  },
+  {
+    "objectID": "en/index_en.html#teaching",
+    "href": "en/index_en.html#teaching",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Fall 2025: Deep Learning (Graduate)\n\nSpring 2025: Python Programming (Undergraduate)\n\nTeaching Materials →"
+  },
+  {
+    "objectID": "en/index_en.html#supervision",
+    "href": "en/index_en.html#supervision",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "MSc: Sayedeh Zoreh Mousavi (Ongoing), Fault Detection in Rotary Devices using Deep Learning.\n\nMSc: Mojib porohan (2025) A Hybrid Model Based on Clustering and Recurrent Neural Networks for Time Series Forecasting."
+  },
+  {
+    "objectID": "en/index_en.html#projects",
+    "href": "en/index_en.html#projects",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Feasibility Study of Business Intelligence in Iranian Offshore Oil Company – Bushehr Zone (Industry Sabbatical)."
+  },
+  {
+    "objectID": "en/index_en.html#news",
+    "href": "en/index_en.html#news",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Aug 2025: Taught in the Short Course on R Tools (SCoRT) workshop, focusing on applications of R in statistical computing and data analysis."
+  },
+  {
+    "objectID": "en/teaching.html",
+    "href": "en/teaching.html",
+    "title": "Dr. Hossein Haghbin",
+    "section": "",
+    "text": "🎓 Teaching\n\n\n🐍 Python Programming\n\nComprehensive Python Course from Beginner to Advanced\n\n\nIntroduction to basic concepts, data structures, functions, and OOP\n\n\nWorking with NumPy, Pandas, Tkinter, SQLite, and real-world projects\n\n\nStructured across three levels: Beginner, Intermediate, Advanced\n\n🌐 Course Website\n📁 Course GitHub\n\n\n\n🧠 Other Courses Under Development\n\nDeep Learning with PyTorch and real-world projects\n\nThese courses will also be offered with links on this page in the future."
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "I am an Assistant Professor of Computer Science at\nPersian Gulf University, Bushehr, Iran.\nMy research focuses on Functional Data Analysis, Deep Learning, and Business Intelligence applications in industry.\n\n\n\nFunctional Data Analysis\nMachine Learning\n\nDeep Learning (ResNet1D, Transformers, KANs)\n\nFault Diagnosis in Rotary Devices\n\nRemaining Usful Life in Rotary Devices\n\n\n\n\n\n\nH. Haghbin, Y. Zhao, and M. Maadooliat(2025), Regularized multivariate functional principal component analysis for data observed on different domains, Foundations of Data Science, In press.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025). Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023). A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\ngoogle Scholar List →\nPGU Full List →\n\n\n\n\n\nFall 2025: Deep Learning (Graduate)\n\nSpring 2025: Python Programming (Undergraduate)\n\nTeaching Materials →\n\n\n\n\n\nMSc: Sayedeh Zoreh Mousavi (Ongoing), Fault Detection in Rotary Devices using Deep Learning.\n\nMSc: Mojib porohan (2025) A Hybrid Model Based on Clustering and Recurrent Neural Networks for Time Series Forecasting.\n\n\n\n\n\n\nFeasibility Study of Business Intelligence in Iranian Offshore Oil Company – Bushehr Zone (Industry Sabbatical).\n\n\n\n\n\nAug 2025: Taught in the Short Course on R Tools (SCoRT) workshop, focusing on applications of R in statistical computing and data analysis."
+  },
+  {
+    "objectID": "en/index.html#research-interests",
+    "href": "en/index.html#research-interests",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Functional Data Analysis\nMachine Learning\n\nDeep Learning (ResNet1D, Transformers, KANs)\n\nFault Diagnosis in Rotary Devices\n\nRemaining Usful Life in Rotary Devices"
+  },
+  {
+    "objectID": "en/index.html#publications-selected",
+    "href": "en/index.html#publications-selected",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "H. Haghbin, Y. Zhao, and M. Maadooliat(2025), Regularized multivariate functional principal component analysis for data observed on different domains, Foundations of Data Science, In press.\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025). Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., Maadooliat, M. (2023). A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\n\ngoogle Scholar List →\nPGU Full List →"
+  },
+  {
+    "objectID": "en/index.html#teaching",
+    "href": "en/index.html#teaching",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Fall 2025: Deep Learning (Graduate)\n\nSpring 2025: Python Programming (Undergraduate)\n\nTeaching Materials →"
+  },
+  {
+    "objectID": "en/index.html#supervision",
+    "href": "en/index.html#supervision",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "MSc: Sayedeh Zoreh Mousavi (Ongoing), Fault Detection in Rotary Devices using Deep Learning.\n\nMSc: Mojib porohan (2025) A Hybrid Model Based on Clustering and Recurrent Neural Networks for Time Series Forecasting."
+  },
+  {
+    "objectID": "en/index.html#projects",
+    "href": "en/index.html#projects",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Feasibility Study of Business Intelligence in Iranian Offshore Oil Company – Bushehr Zone (Industry Sabbatical)."
+  },
+  {
+    "objectID": "en/index.html#news",
+    "href": "en/index.html#news",
+    "title": "Hossein Haghbin",
+    "section": "",
+    "text": "Aug 2025: Taught in the Short Course on R Tools (SCoRT) workshop, focusing on applications of R in statistical computing and data analysis."
   }
 ]
