@@ -4,33 +4,33 @@
     "href": "teaching.html",
     "title": "🎓 تدریس",
     "section": "",
-    "text": "🎓 تدریس\n\n\n🐍 برنامه نویسی پایتون (Python Programming)\n\n\nدوره جامع Python از مقدماتی تا پیشرفته\n\n\n\nآشنایی با مفاهیم پایه، ساختارهای داده، توابع، OOP\n\n\nکار با NumPy، Pandas، Tkinter، SQLite و پروژه‌های واقعی\n\n\nساختار یافته در سه سطح: مقدماتی، متوسط، پیشرفته\n\n\n🌐 وب‌سایت: haghbinh.github.io/Pylab\n📁 گیت‌هاب: github.com/haghbinh/Pylab\n\n\n\n\n🧠 سایر دوره‌های در حال توسعه\n\n\n\nیادگیری عمیق با PyTorch و پروژه‌های واقعی\n\n\nدر آینده این دوره‌ها نیز با لینک در همین صفحه ارائه خواهد شد."
+    "text": "🎓 تدریس\n\n\n🐍 برنامه نویسی پایتون (Python Programming)\n\n\nدوره جامع Python از مقدماتی تا پیشرفته\n\n\n\nآشنایی با مفاهیم پایه، ساختارهای داده، توابع، OOP\n\n\nکار با NumPy، Pandas، Tkinter، SQLite و پروژه‌های واقعی\n\n\nساختار یافته در سه سطح: مقدماتی، متوسط، پیشرفته\n\n\n🌐 وب‌سایت 📁 گیت‌هاب\n\n\n\n\n🧠 سایر دوره‌های در حال توسعه\n\n\n\nیادگیری عمیق با PyTorch و پروژه‌های واقعی\n\n\nدر آینده این دوره‌ها نیز با لینک در همین صفحه ارائه خواهد شد."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "دکتر حسین حق‌بین",
     "section": "",
-    "text": "عضو هیئت علمی گروه آمار،\nدانشکده مهندسی سیستمهای هوشمند و علوم داده، دانشگاه خلیج فارس\n\n\n\n\n📧 ایمیل: haghbin@pgu.ac.ir\n\n\n🌐 وب‌سایت: haghbin.ir\n\n\n گیت‌هاب: github.com/haghbinh\n\n\n🔗 لینکدین: linkedin.com/in/haghbinh\n\n\n\n\n\n📘 دوره‌ها و آموزش‌ها:\n\n\nدوره آموزش برنامه نویسی R برای علوم داده\n\n\nدوره اموزش برنامه‌نویسی پایتون برای علوم داده\n\n\nیادگیری ماشین و یادگیری عمیق با Pytorch\n\n\n🧪 زمینه‌های پژوهشی:\n\n\nتحلیل داده‌های تابعی\n\n\nیادگیری عمیق برای داده‌های صنعتی\n\n\nتشخیص خطا و پیش‌بینی عمر مفید باقیمانده در ماشین‌های دوار"
+    "text": "هیئت علمی گروه آمار، دانشکده مهندسی سیستمهای هوشمند و علوم داده، دانشگاه خلیج فارس\n\n\n\n\n📧 ایمیل: haghbin@pgu.ac.ir\n\n\n🌐 وب‌سایت: haghbin.ir\n\n\n گیت‌هاب: haghbinh\n\n\n🔗 لینکدین: haghbinh\n\n\n\n\n\n📘 دوره‌ها و آموزش‌ها:\n\n\nدوره آموزش برنامه نویسی R برای علوم داده\n\n\nدوره اموزش برنامه‌نویسی پایتون برای علوم داده\n\n\nیادگیری ماشین و یادگیری عمیق با Pytorch\n\n\n🧪 زمینه‌های پژوهشی:\n\n\nتحلیل داده‌های تابعی\n\n\nیادگیری عمیق برای داده‌های صنعتی\n\n\nتشخیص خطا و پیش‌بینی عمر مفید باقیمانده در ماشین‌های دوار"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "دکتر حسین حق‌بین",
+    "title": "Hossein Haghbin",
     "section": "",
     "text": "Here’s an overview of my academic profile and selected publications:"
   },
   {
     "objectID": "research.html#research",
     "href": "research.html#research",
-    "title": "دکتر حسین حق‌بین",
+    "title": "Hossein Haghbin",
     "section": "",
     "text": "Here’s an overview of my academic profile and selected publications:"
   },
   {
     "objectID": "research.html#research-interests",
     "href": "research.html#research-interests",
-    "title": "دکتر حسین حق‌بین",
+    "title": "Hossein Haghbin",
     "section": "🎯 Research Interests",
     "text": "🎯 Research Interests\n\n\n\nFunctional Data Analysis\n\n\nDeep Learning for Industrial Data\n\n\nFault Diagnosis and Remaining Useful Life (RUL) Prediction in Rotary Machines\n\n\n\nProfile: Hossein Haghbin on Google Scholar\n\n\n📚 Selected Publications (APA Style)\nHaghbin, H., Trinka, J., & Maadooliat, M. (2025). Rfssa: An R package for functional singular spectrum analysis. The R Journal, 16(2), 82–98.\nHaghbin, H., & Maadooliat, M. (2023). A journey from univariate to multivariate functional time series: A comprehensive review. Wiley Interdisciplinary Reviews: Computational Statistics, e1640. https://doi.org/10.1002/wics.1640\nTrinka, J., Haghbin, H., & Shang, H. L. (2023). Functional time series forecasting: Functional singular spectrum analysis approaches. Stat, 12(1). https://onlinelibrary.wiley.com/journal/20491573\nKharrati-Kopaei, M., Shenavari, Z., & Haghbin, H. (2023). combinIT: An R package for combining interaction tests for unreplicated two-way tables. The R Journal, 15(1), 284–296.\nTrinka, J., Haghbin, H., & Maadooliat, M. (2022). Multivariate functional singular spectrum analysis: A nonparametric approach for analyzing multivariate functional time series. In Innovations in Multivariate Statistical Modeling: Navigating Theoretical and Practical Advances. Springer. https://link.springer.com/\n\n\n\n📘 Full Publication List\n🔗 Browse my full publication list on Google Scholar\n\nThis page is generated using my Google Scholar profile (Public until 2025). Metrics and citation counts are accurate as of the date of this page."
   }
